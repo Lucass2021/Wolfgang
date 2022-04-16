@@ -71,7 +71,7 @@ This project is currently finished.
 ## :heavy_check_mark: To do list
 
 - Add more content
-- Code optimization (performance and or developer organization)
+- Code optimization (performance and organization)
 
 ---
 
